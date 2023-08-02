@@ -1,0 +1,18 @@
+#pragma once
+
+#define VERSION_MAJOR @finity_VERSION_MAJOR@
+#define VERSION_MINOR @finity_VERSION_MINOR@
+#define VERSION_PATCH @finity_VERSION_PATCH@
+
+#define BUILD_TIME @CURRENT_SYS_TIME@
+#define GIT_BRANCH_NAME "@GIT_BRANCH_NAME@"
+#define GIT_COMMIT_ID "@GIT_COMMIT_ID@"
+#define BUILD_TYPE "@CMAKE_BUILD_TYPE@"
+
+#define TEST_DATA_PATH "@TEST_DATA_PATH@"
+
+
+
+
+
+
